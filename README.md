@@ -15,7 +15,7 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 
 ---
 
-### 🛠️ Professional Tech Stack (Catppuccin Edition)
+### Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 
 ---
 
-### 📫 Connect with me (Catppuccin Palette)
+### Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alam-fahlevi-pranata-61972530a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,7 +36,7 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 
 ---
 
-### 📊 Performance Metrics (Theme: Catppuccin Mocha)
+### Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alambot23&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=10" alt="GitHub Stats" />
