@@ -20,7 +20,7 @@ Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence
 
 ---
 
-### 🛠️ Tool & Tech Stack
+### 🛠️ Tools & Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
