@@ -1,41 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=250&section=header&text=NebiliZ&fontSize=80&animation=twinkling&fontAlignY=35&theme=mocha&fontColor=cba6f7&desc=AIoT%20•%20Machine%20Learning%20•%20DevOps&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=250&section=header&text=NEBILIZ%20%7C%20AIoT%20%26%20MLOps&fontSize=60&animation=fadeIn&fontAlignY=38&theme=mocha&custom_img=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/catppuccin_circle.png" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footprints/latte.png" width="100" />
-</p>
-
-## 🚀 Fullstack Engineer | MLOps Learner | Linux Ricer
-
-Halo! Saya **Alam Fahlevi**, seorang pengembang yang berfokus pada menjembatani dunia fisik (**IoT**) dengan kecerdasan buatan (**Machine Learning**) melalui pipeline **DevOps** yang efisien. Dari **SMK Negeri 1 Tanjung Morawa** hingga **Universitas Malikussaleh**, saya terus mengeksplorasi batas teknologi.
-
----
-
-### 🛠️ Skills & Technologies
-
-<div align="center">
-
-| Field | Badges |
-| :--- | :--- |
-| **Edge Computing** | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
-| **Intelligence** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
-</div>
-
----
-
-### System Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alambot23&show_icons=true&theme=catppuccin_mocha&border_radius=10&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc" alt="Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=30&section=footer&theme=mocha" />
-</p>
 ## 🚀 Fullstack Engineer | AIoT Enthusiast | MLOps Learner 🐾
 
 Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence of Things)** dan **DevOps**. Memulai fondasi teknis di **SMK Negeri 1 Tanjung Morawa** dan saat ini sedang memperdalam ilmu di **Universitas Malikussaleh**. Saya mengombinasikan ketelitian perangkat keras dengan skalabilitas *cloud infrastructure*.
