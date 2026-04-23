@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=250&section=header&text=NEBILIZ%20%7C%20AIoT%20%26%20MLOps&fontSize=60&animation=fadeIn&fontAlignY=38&theme=mocha&custom_img=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/catppuccin_circle.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=250&section=header&text=NebiliZ%20✨&fontSize=80&animation=twinkling&fontAlignY=35&theme=mocha&fontColor=ffffff&desc=AIoT%20•%20Machine%20Learning%20•%20DevOps&descSize=20&descAlignY=55" />
 </p>
 
-## 🚀 Fullstack Engineer | AIoT Enthusiast | MLOps Learner 🐾
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/catppuccin_circle.png" width="50" />
+</p>
 
-Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence of Things)** dan **DevOps**. Memulai fondasi teknis di **SMK Negeri 1 Tanjung Morawa** dan saat ini sedang memperdalam ilmu di **Universitas Malikussaleh**. Saya mengombinasikan ketelitian perangkat keras dengan skalabilitas *cloud infrastructure*.
+<h2 align="center">🚀 Fullstack Engineer | AIoT Enthusiast | MLOps Learner 🐾</h2>
+
+<p align="center">
+Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence of Things)</b> dan <b>DevOps</b>. Memulai fondasi teknis di <b>SMK Negeri 1 Tanjung Morawa</b> dan saat ini sedang memperdalam ilmu di <b>Universitas Malikussaleh</b>. Saya mengombinasikan ketelitian perangkat keras dengan skalabilitas <i>cloud infrastructure</i>.
+</p>
 
 ---
 
@@ -15,7 +21,7 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -26,17 +32,17 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 
 ---
 
-### Connect with me
+### 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alam-fahlevi-pranata-61972530a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/alammm_mmm?igsh=bDdrZmg0eGVsY3Ez" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-f38ba8?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alam-fahlevi-pranata-61972530a" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/alammm_mmm" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-f38ba8?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:alamfahlevipranata@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-fab387?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### Performance Metrics
+### 📊 Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alambot23&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=10" alt="GitHub Stats" />
@@ -48,5 +54,5 @@ Halo! Saya adalah pengembang yang berfokus pada **AIoT (Artificial Intelligence 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=30&section=footer&theme=mocha" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=30&section=footer&theme=mocha" />
 </p>
