@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=250&section=header&text=NebiliZ%20✨&fontSize=80&animation=twinkling&fontAlignY=35&theme=mocha&fontColor=ffffff&desc=AIoT%20•%20Machine%20Learning%20•%20DevOps&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=250&section=header&text=NebiliZ%20:V&fontSize=80&animation=twinkling&fontAlignY=35&theme=mocha&fontColor=ffffff&desc=AIoT%20•%20Machine%20Learning%20•%20DevOps&descSize=20&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tool & Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -31,7 +31,7 @@ Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alam-fahlevi-pranata-61972530a" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,7 +41,7 @@ Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence
 
 ---
 
-### 📊 Performance Metrics
+###  Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alambot23&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=10" alt="GitHub Stats" />
