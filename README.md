@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/catppuccin_circle.png" width="50" />
+  <img src="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc" width="50" />
 </p>
 
 <h2 align="center">🚀 Fullstack Engineer | AIoT Enthusiast | MLOps Learner 🐾</h2>
