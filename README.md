@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=250&section=header&text=NebiliZ%20:V&fontSize=80&animation=twinkling&fontAlignY=35&theme=mocha&fontColor=ffffff&desc=AIoT%20•%20Machine%20Learning%20•%20DevOps&descSize=20&descAlignY=55" />
+  <img src="banner 4.gif" width="100%" />
 </p>
 
 <p align="center">
