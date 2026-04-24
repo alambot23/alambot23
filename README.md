@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alambot23&label=PROFILE%20VIEWS&style=flat-square&color=cba6f7" alt="alambot23" />
 </p>
-<h2 align="center">🚀 Fullstack Engineer | AIoT Enthusiast | MLOps Learner 🐾</h2>
+<h2 align="center">🚀 Backend Engineer | AIoT Enthusiast | MLOps Learner 🐾</h2>
 
 <p align="center">
 Halo! Saya adalah pengembang yang berfokus pada <b>AIoT (Artificial Intelligence of Things)</b> dan <b>DevOps</b>. Memulai fondasi teknis di <b>SMK Negeri 1 Tanjung Morawa</b> dan saat ini sedang memperdalam ilmu di <b>Universitas Malikussaleh</b>. Saya mengombinasikan ketelitian perangkat keras dengan skalabilitas <i>cloud infrastructure</i>.
